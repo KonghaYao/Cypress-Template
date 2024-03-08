@@ -1,5 +1,14 @@
 # Cypress Test Template
 
+## Test Like a Human: Click and Copy, We'll Generate the Rest!
+
+
+
+
+
+
+## Getting Start
+
 1. init repo
 
 ```sh
